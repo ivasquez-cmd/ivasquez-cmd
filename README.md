@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
 > I am currently training in programming and strengthening my software development skills.
 
@@ -21,13 +21,13 @@ I am focused on improving my logical thinking and growing step by step in the wo
 
 ---
 
-## 💻 Technical Skills
+#### 💻 Technical Skills
 
 - Python (learning stage)
 - Programming logic
 - Problem-solving
 
-### Example of code in Python
+##### Example of code in Python
 
 ```python
 print("Hello, world!")
