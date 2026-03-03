@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi There
 
-<!--
-**ivasquez-cmd/ivasquez-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+##  Information
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Field | Details |
+|-------|---------|
+| **Name** | Isaac Vasquez |
+| **Role** | Programming Student in Training |
+| **Favorite Language** | Python |
+
+---
+
+## 🚀 About Me
+
+> I am currently training in programming and strengthening my software development skills.
+
+I am focused on improving my logical thinking and growing step by step in the world of technology.  
+*Learning never stop*
+
+---
+
+## 💻 Technical Skills
+
+- Python (learning stage)
+- Programming logic
+- Problem-solving
+
+### Example of code in Python
+
+```python
+print("Hello, world!")
